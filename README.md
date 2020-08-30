@@ -2,7 +2,8 @@
 ## Project Name: Track my hack
 The name of my project is Track my Hack. **Track My Hack is a web-based application that helps users, while they are creating their projects for any hackathons or competitions.**
 ### Aim of Project: To help people in creating projects by prioritizing, aligning, and managing their projects and modules.
-### Problem Statement/Inspiration: While creating projects during any hackathon or a competition, we have a lot of ideas popping up. We try to keep our projects as concise as possible but most of the time we end up with a lot of modules in our project. While we create our project, we come across so many hurdles that we decide to forfeit some of the modules or give a twist in the project. Over time, we lose track of the project, this hampers our motive of the project that we had decided initially.
+### Problem Statement/Inspiration: 
+While creating projects during any hackathon or a competition, we have a lot of ideas popping up. We try to keep our projects as concise as possible but most of the time we end up with a lot of modules in our project. While we create our project, we come across so many hurdles that we decide to forfeit some of the modules or give a twist in the project. Over time, we lose track of the project, this hampers our motive of the project that we had decided initially.
 
 ## Technologies used:
 - **HTML(Bootstrap)** was used to get some cool HTML templates and CSS files.
