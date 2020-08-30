@@ -19,5 +19,7 @@ Each time a project gets created, it involves many hurdles and issues. We also f
 2. Google Calendar API integration is left as I have integrated APIs with python side but haven't tried doing that stuff from the javascript side.
 3. I have to add more configuration into this project like due dates, extremely important, more prioritization features.
 I hope it works out fine.
+## View the project & try it:
+https://trackmyhack.netlify.app/
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
