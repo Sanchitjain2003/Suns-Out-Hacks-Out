@@ -1,2 +1,2 @@
-# Suns-Out-Hacks-Out
-Repository for Suns-Out-Hacks-Out hackathon
+# To-Do-List
+Create To Do List In JavaScript
